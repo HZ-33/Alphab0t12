@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY 𝑄𝑢𝑒𝑒𝑛 𝐵𝑂𝑇𝑍
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ 8881 0896 0539 3009
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ 3901 08896 0539 3009
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ 881 0896 0539 3009
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ 852 8896 0539 3009
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0896 0539 3009
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0896 0539 3009
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0896 0539 3009
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama HAFIZ
 
 *📲 PULSA*
 
